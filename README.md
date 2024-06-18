@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **shreyshah173/shreyshah173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">HI,Myself Shrey</h1>
+<h1 align="center">Hi there 👋,Myself Shrey</h1>
 <h3 align="center">A full-stack developer and Data analyst</h3>
 
 - 🔭 I’m student at PDEU , Gandhinagar
