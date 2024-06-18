@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 <a href="https://www.leetcode.com/shreyshah173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyshah173" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<div align="center" style="margin: 0 auto; width: 80%;">
+<h3>Languages and Tools:</h3>
+<div align="center" style="margin: 0 20px; width: 80%;">
   <p>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
