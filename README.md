@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3>Languages and Tools:</h3>
-<div align="center" style="margin: 0 20px; width: 80%;">
+<div align="left">
   <p>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
