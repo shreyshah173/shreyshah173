@@ -125,7 +125,7 @@ Here are some ideas to get you started:
 
 
 
-
+<p>Let count 10</p>
 
 
 
@@ -138,8 +138,7 @@ Here are some ideas to get you started:
 
 ---
 <br />
-
-<!--Languages and Tools Section-->       
+     
 
 
 
@@ -178,7 +177,7 @@ Here are some ideas to get you started:
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/shreyshah173/Time-Table-Generator">
+        <a href="https://github.com/shreyshah173/SignLanguageDetection">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyshah173&repo=Time-Table-Generator&theme=nightowl&show_owner=true" alt="Time-Table-Generator" />
         </a>
       </p>
