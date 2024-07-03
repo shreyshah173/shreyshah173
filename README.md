@@ -111,11 +111,8 @@ Here are some ideas to get you started:
   </p>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyshah173&show_icons=true&locale=en&layout=compact" alt="shreyshah173" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyshah173&show_icons=true&locale=en" alt="shreyshah173" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyshah173" alt="shreyshah173" /></a> </p>
 
 
 
