@@ -131,22 +131,6 @@ Here are some ideas to get you started:
 
 
 
-
-
-
-
-<p>New Read Me content </p>
-
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
-
-<!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Aditya! 
-*Digital Craftsman (Developer / Programmer)*
-<br /> 
-
 <!--Profile Count Badge-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shreyshah173&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="shreyshah173" style="padding-right:20px;" />
@@ -156,11 +140,7 @@ Here are some ideas to get you started:
 <br />
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,react,nodejs,express,django,flask,fastapi,opencv,pytorch,sklearn,selenium,tensorflow,mysql,mongodb,git,github,vscode,docker,gcp,postman,linux,anaconda,md&perline=10"  />
-</p>
-<br />
+
 
 
 <!--Trophies Section-->   
@@ -224,7 +204,6 @@ Here are some ideas to get you started:
 ---
 
 <!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 
 
@@ -329,11 +308,11 @@ Here are some ideas to get you started:
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
- <a href="[https://www.linkedin.com/in/adityajethani/](https://www.linkedin.com/in/adityajethani/)" target="_blank">
+ <a href="[https://www.linkedin.com/in/shreyshah173/](https://www.linkedin.com/in/shreyshah173/)" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="mailto:adityajethani11@gmail.com" target="_blank">
+<a href="mailto:jain.shrey1110@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=adityajethani11@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
