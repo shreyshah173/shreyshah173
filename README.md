@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shreyshah173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyshah173" height="30" width="40" /></a>
+  <a href="mailto:jain.shrey1110@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/shreyshah173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyshah173" height="30" width="40" /></a>
 <a href="https://instagram.com/shreyshah173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyshah173" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shreyshah173" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shreyshah173" height="30" width="40" /></a>
@@ -300,24 +302,6 @@ Here are some ideas to get you started:
 
 
 
-<!--Contact Section--> 
-
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
- <a href="[https://www.linkedin.com/in/shreyshah173/](https://www.linkedin.com/in/shreyshah173/)" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-  
-<a href="mailto:jain.shrey1110@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=adityajethani11@gmail.com mail style="margin-bottom: 5px;" />
-</a>
-
-
-<a href="https://twitter.com/shreyshah173" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="shreyshah173 Twitter" style="margin-bottom: 5px;" />
-</a>
-</div>
-<br/>
 
 
 
