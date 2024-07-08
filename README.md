@@ -166,7 +166,7 @@ Here are some ideas to get you started:
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/shreyshah173/SignLanguageDetection">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyshah173&repo=Time-Table-Generator&theme=nightowl&show_owner=true" alt="Time-Table-Generator" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyshah173&repo=SignLanguageDetection&theme=nightowl&show_owner=true" alt="Sign Language Detection" />
         </a>
       </p>
     </td>
