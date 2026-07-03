@@ -9,10 +9,10 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi there 👋,Myself Shrey</h1>
-<h3 align="center">A full-stack developer and Data analyst</h3>
+<h3 align="center">A Data Scientist and Backend developer</h3>
 
-- 🌱 I’m currently focused on many different things in web development.
-- 👯 I’m looking to collaborate on a MERN stack or HTML,CSS,JS project
+- 🌱 I’m currently focused on many different things in AI and Deep Learning.
+- 👯 I’m looking to collaborate on a AI based project
 - 📫 How to reach me: jain.shrey1110@gmail.com
 
 
